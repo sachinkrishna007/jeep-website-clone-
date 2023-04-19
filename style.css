@@ -1,0 +1,55 @@
+.footer-list{
+    font-size: small;
+}
+
+
+
+.section-1{
+    background-color: rgb(255, 255, 255);
+    
+    width: 100%;
+}
+/* .section-2 */
+.section-3
+{
+    background-color: aliceblue;
+    width: 100%;
+}
+.section-4{
+height: 2rem;
+
+
+
+}
+.footer-1{
+ background-color: black;  
+ color: aliceblue;
+ padding-left: 9rem;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.firstone{
+    
+}
+.footer-1 li
+{
+    color: rgb(86, 86, 92);
+    
+}
+.bold-1
+{
+color: rgb(255, 255, 255) !important;}
+.footer-para{
+    font-size: 79%;
+    background-color: black !important;
+    color: aliceblue;
+
+}
+.footer-para p {
+    color: rgb(146, 140, 132);
+}
+.footer-para img{
+    height: 2rem;
+}
+.navbar-collapse{
+    z-index: 1;
+}
